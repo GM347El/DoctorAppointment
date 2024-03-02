@@ -1,0 +1,11 @@
+E:\C#\TAAV\DA2\DoctorAppointment.Entities\bin\Debug\net8.0\DoctorAppointment.Entities.deps.json
+E:\C#\TAAV\DA2\DoctorAppointment.Entities\bin\Debug\net8.0\DoctorAppointment.Entities.dll
+E:\C#\TAAV\DA2\DoctorAppointment.Entities\bin\Debug\net8.0\DoctorAppointment.Entities.pdb
+E:\C#\TAAV\DA2\DoctorAppointment.Entities\obj\Debug\net8.0\DoctorAppointment.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\TAAV\DA2\DoctorAppointment.Entities\obj\Debug\net8.0\DoctorAppointment.Entities.AssemblyInfoInputs.cache
+E:\C#\TAAV\DA2\DoctorAppointment.Entities\obj\Debug\net8.0\DoctorAppointment.Entities.AssemblyInfo.cs
+E:\C#\TAAV\DA2\DoctorAppointment.Entities\obj\Debug\net8.0\DoctorAppointment.Entities.csproj.CoreCompileInputs.cache
+E:\C#\TAAV\DA2\DoctorAppointment.Entities\obj\Debug\net8.0\DoctorAppointment.Entities.dll
+E:\C#\TAAV\DA2\DoctorAppointment.Entities\obj\Debug\net8.0\refint\DoctorAppointment.Entities.dll
+E:\C#\TAAV\DA2\DoctorAppointment.Entities\obj\Debug\net8.0\DoctorAppointment.Entities.pdb
+E:\C#\TAAV\DA2\DoctorAppointment.Entities\obj\Debug\net8.0\ref\DoctorAppointment.Entities.dll

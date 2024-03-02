@@ -1,0 +1,11 @@
+E:\C#\TAAV\DA2\DoctorAppointment.Contracts\bin\Debug\net8.0\DoctorAppointment.Contracts.deps.json
+E:\C#\TAAV\DA2\DoctorAppointment.Contracts\bin\Debug\net8.0\DoctorAppointment.Contracts.dll
+E:\C#\TAAV\DA2\DoctorAppointment.Contracts\bin\Debug\net8.0\DoctorAppointment.Contracts.pdb
+E:\C#\TAAV\DA2\DoctorAppointment.Contracts\obj\Debug\net8.0\DoctorAppointment.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\TAAV\DA2\DoctorAppointment.Contracts\obj\Debug\net8.0\DoctorAppointment.Contracts.AssemblyInfoInputs.cache
+E:\C#\TAAV\DA2\DoctorAppointment.Contracts\obj\Debug\net8.0\DoctorAppointment.Contracts.AssemblyInfo.cs
+E:\C#\TAAV\DA2\DoctorAppointment.Contracts\obj\Debug\net8.0\DoctorAppointment.Contracts.csproj.CoreCompileInputs.cache
+E:\C#\TAAV\DA2\DoctorAppointment.Contracts\obj\Debug\net8.0\DoctorAppointment.Contracts.dll
+E:\C#\TAAV\DA2\DoctorAppointment.Contracts\obj\Debug\net8.0\refint\DoctorAppointment.Contracts.dll
+E:\C#\TAAV\DA2\DoctorAppointment.Contracts\obj\Debug\net8.0\DoctorAppointment.Contracts.pdb
+E:\C#\TAAV\DA2\DoctorAppointment.Contracts\obj\Debug\net8.0\ref\DoctorAppointment.Contracts.dll

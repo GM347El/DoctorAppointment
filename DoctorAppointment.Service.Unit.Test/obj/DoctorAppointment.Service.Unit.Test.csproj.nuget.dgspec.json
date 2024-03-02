@@ -1,0 +1,386 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Service.Unit.Test\\DoctorAppointment.Service.Unit.Test.csproj": {}
+  },
+  "projects": {
+    "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Contracts\\DoctorAppointment.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Contracts\\DoctorAppointment.Contracts.csproj",
+        "projectName": "DoctorAppointment.Contracts",
+        "projectPath": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Contracts\\DoctorAppointment.Contracts.csproj",
+        "packagesPath": "C:\\Users\\B\\.nuget\\packages\\",
+        "outputPath": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\B\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Entities\\DoctorAppointment.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Entities\\DoctorAppointment.Entities.csproj",
+        "projectName": "DoctorAppointment.Entities",
+        "projectPath": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Entities\\DoctorAppointment.Entities.csproj",
+        "packagesPath": "C:\\Users\\B\\.nuget\\packages\\",
+        "outputPath": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\B\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Persistence.Ef\\DoctorAppointment.Persistence.Ef.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Persistence.Ef\\DoctorAppointment.Persistence.Ef.csproj",
+        "projectName": "DoctorAppointment.Persistence.Ef",
+        "projectPath": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Persistence.Ef\\DoctorAppointment.Persistence.Ef.csproj",
+        "packagesPath": "C:\\Users\\B\\.nuget\\packages\\",
+        "outputPath": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Persistence.Ef\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\B\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Contracts\\DoctorAppointment.Contracts.csproj": {
+                "projectPath": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Contracts\\DoctorAppointment.Contracts.csproj"
+              },
+              "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Entities\\DoctorAppointment.Entities.csproj": {
+                "projectPath": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Entities\\DoctorAppointment.Entities.csproj"
+              },
+              "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Services\\DoctorAppointment.Services.csproj": {
+                "projectPath": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Services\\DoctorAppointment.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Service.Unit.Test\\DoctorAppointment.Service.Unit.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Service.Unit.Test\\DoctorAppointment.Service.Unit.Test.csproj",
+        "projectName": "DoctorAppointment.Service.Unit.Test",
+        "projectPath": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Service.Unit.Test\\DoctorAppointment.Service.Unit.Test.csproj",
+        "packagesPath": "C:\\Users\\B\\.nuget\\packages\\",
+        "outputPath": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Service.Unit.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\B\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Persistence.Ef\\DoctorAppointment.Persistence.Ef.csproj": {
+                "projectPath": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Persistence.Ef\\DoctorAppointment.Persistence.Ef.csproj"
+              },
+              "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Services\\DoctorAppointment.Services.csproj": {
+                "projectPath": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Services\\DoctorAppointment.Services.csproj"
+              },
+              "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Test.Tools\\DoctorAppointment.Test.Tools.csproj": {
+                "projectPath": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Test.Tools\\DoctorAppointment.Test.Tools.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.9.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Services\\DoctorAppointment.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Services\\DoctorAppointment.Services.csproj",
+        "projectName": "DoctorAppointment.Services",
+        "projectPath": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Services\\DoctorAppointment.Services.csproj",
+        "packagesPath": "C:\\Users\\B\\.nuget\\packages\\",
+        "outputPath": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\B\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Contracts\\DoctorAppointment.Contracts.csproj": {
+                "projectPath": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Contracts\\DoctorAppointment.Contracts.csproj"
+              },
+              "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Entities\\DoctorAppointment.Entities.csproj": {
+                "projectPath": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Entities\\DoctorAppointment.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Test.Tools\\DoctorAppointment.Test.Tools.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Test.Tools\\DoctorAppointment.Test.Tools.csproj",
+        "projectName": "DoctorAppointment.Test.Tools",
+        "projectPath": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Test.Tools\\DoctorAppointment.Test.Tools.csproj",
+        "packagesPath": "C:\\Users\\B\\.nuget\\packages\\",
+        "outputPath": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Test.Tools\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\B\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Persistence.Ef\\DoctorAppointment.Persistence.Ef.csproj": {
+                "projectPath": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Persistence.Ef\\DoctorAppointment.Persistence.Ef.csproj"
+              },
+              "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Services\\DoctorAppointment.Services.csproj": {
+                "projectPath": "E:\\C#\\TAAV\\DA2\\DoctorAppointment.Services\\DoctorAppointment.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
